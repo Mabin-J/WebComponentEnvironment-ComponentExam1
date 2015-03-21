@@ -1,0 +1,9 @@
+[submodule "ComponentExam1Icm"]
+	path = ComponentExam1Icm
+	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam1-ICM.git
+[submodule "ComponentExam2Icm"]
+	path = ComponentExam2Icm
+	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam2-ICM.git
+[submodule "ManagerLibrary"]
+	path = ManagerLibrary
+	url = git@github.com:mabin359/WebComponentEnvironment-ManagerLibrary.git
