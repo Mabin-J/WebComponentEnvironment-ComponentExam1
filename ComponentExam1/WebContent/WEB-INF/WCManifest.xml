@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WCManifest Package="info.mabin.wce.componentexam1">
+  <ComponentName>WebComponentExample1</ComponentName>
+  <UseManagerVersion>1</UseManagerVersion>
+  <IcmClasses>
+    <IcmClass>.icm.IcmExam1</IcmClass>
+  </IcmClasses>
+  <EventListenerClasses>
+  	<EventListenerClass>.EventListenerComponent</EventListenerClass>
+  	<EventListenerClass>.EventListenerConfiguration</EventListenerClass>
+  	<EventListenerClass>.EventListenerIcm</EventListenerClass>
+  	</EventListenerClasses>
+  <VersionCode>1</VersionCode>
+  <VersionName>0.1.0</VersionName>
+</WCManifest>
